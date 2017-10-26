@@ -23,6 +23,7 @@ function handleImageClick(event) {
 
 		info.fadeIn(200);
 		preview.css('background-image', target.css('background-image'));
+		
 	}
 }
 
